@@ -1,0 +1,17 @@
+    {
+    "Home": "主页",
+    "Language":"语言",
+    "Enter a Task": "输入任务",
+    "Choose a Language": "选择语言",
+    "Click to add": "点击添加",
+    "Remove": "删除",
+    "Done": "完成",
+    "Undo": "撤销",
+    "Enter a Description": "输入描述",
+    "Enter a Title": "输入标题",
+    "Submit": "提交",
+    "Cancel": "取消",
+    "Edit":"编辑",
+    "No Tasks Yet": "还没有任务",
+    "Tasks Completed": "任务已完成"
+}

@@ -1,0 +1,18 @@
+    {
+    "Home": "Ana Sayfa",
+    "Language":"Dil",
+    "Enter a Task": "Görev girin",
+    "Choose a Language": "Dil seçin",
+    "Click to add": "Eklemek için tıklayın",
+    "Remove": "Kaldır",
+    "Done": "Tamamlandı",
+    "Undo": "Geri Al",
+    "Enter a Description": "Bir açıklama girin",
+    "Enter a Title": "Bir başlık girin",
+    "Submit": "Gönder",
+    "Cancel": "İptal",
+    "Edit":"Düzenle",
+    "No Tasks Yet": "Henüz görev yok",
+    "Tasks Completed": "Görevler tamamlandı"
+
+    }
